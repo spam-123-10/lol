@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 body {
-    font-family: 'Roboto Mono', monospace;
+    font-family: "Roboto Mono", monospace;
     text-align: center;
     margin: 0;
 }
@@ -36,7 +36,7 @@ button {
     z-index: 999;
 }
 body {
-    font-family: 'Roboto Mono', monospace;
+    font-family: "Roboto Mono", monospace;
     text-align: center;
     margin: 0;
     background-color: #f9f4f5; /* Soft pastel color for the background */
@@ -84,7 +84,7 @@ button:hover {
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 999;
-    font-family: 'Roboto Mono', monospace;
+    font-family: "Roboto Mono", monospace;
     font-size: 24px;
     color: #a012c4; /* Romantic color for the popup text */
 }
