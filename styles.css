@@ -1,11 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body {
     background: url(https://subtlepatterns.com/patterns/noise_lines.png);
-    font-family: 'Pacifico', sans-serif;
+    font-family: 'Roboto', sans-serif;
     overflow: hidden;
     color: #fff;
 }
+
 .bgoverlay {
     background: rgb(103, 58, 183);
     background: rgba(103, 58, 183, 0.7);
@@ -41,7 +42,7 @@ body {
     margin-top: -73px;
     z-index: 4;
     font-size: 30px;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Roboto', sans-serif;
     color: #fff;
     cursor: pointer;
     text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
@@ -125,7 +126,7 @@ body {
     font-size: 16px;
 }
 
-.endtext h3 {
+endtext h3 {
     font-size: 20px;
 }
 
