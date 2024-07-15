@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 body {
     background: url(https://subtlepatterns.com/patterns/noise_lines.png);
-    font-family: 'Pacifico', cursive;
+    font-family: 'Pacifico', sans-serif;
     overflow: hidden;
     color: #fff;
 }
-
 .bgoverlay {
     background: rgb(103, 58, 183);
     background: rgba(103, 58, 183, 0.7);
