@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 body {
     background: url(https://subtlepatterns.com/patterns/noise_lines.png);
-    font-family: 'Pacifico', sans-serif;
+    font-family: "Roboto Mono", monospace;
     overflow: hidden;
     color: #fff;
 }
@@ -42,7 +41,7 @@ body {
     margin-top: -73px;
     z-index: 4;
     font-size: 30px;
-    font-family: 'Pacifico', sans-serif;
+    font-family: "Roboto Mono", monospace;
     color: #fff;
     cursor: pointer;
     text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
@@ -65,7 +64,7 @@ body {
     font-size: 20em;
     color: #ff4081;
     content: "\f004";
-    font-family: FontAwesome;
+    font-family: "Roboto Mono", monospace;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
